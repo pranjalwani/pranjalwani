@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalwani
-- 👀 I’m interested in Software Devloper
-- 🌱 I’m currently learning Full Stack Java
+- 👀 I’m interested in Software Devlopment
+- 🌱 I’m currently learning Full Stack Java Devlopment
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me www.linkedin.com/in/pranjal-wani-41a8bb220
 
